@@ -15,6 +15,7 @@ function App() {
     <Button text={"블로그"} color={"orange"}/>
     <Button text={"카페"}>
       <div>자식요소</div>
+      <div>committest 지울것</div>
       <Header></Header>
     </Button>
     </>
